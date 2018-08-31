@@ -1,0 +1,25 @@
+{
+  "name": "vdf-js",
+  "version": "1.0.0",
+  "description": "Implementations of variable verifiable delay functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainSafeSystems/vdf-js.git"
+  },
+  "keywords": [
+    "\"vdf\"",
+    "\"verifiable",
+    "delay",
+    "functions\""
+  ],
+  "author": "Mikerah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChainSafeSystems/vdf-js/issues"
+  },
+  "homepage": "https://github.com/ChainSafeSystems/vdf-js#readme"
+}
